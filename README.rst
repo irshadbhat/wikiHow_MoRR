@@ -1,7 +1,5 @@
-wikiHowToImprove-v2
-===================
-
-Towards Modeling Revision Requirements in wikiHow Instructions.
+Towards Modeling Revision Requirements in wikiHow Instructions
+==============================================================
 
 Dependencies
 ------------
@@ -10,10 +8,9 @@ Dependencies
   - install dynet with GPU support: 
 
     - BACKEND=cuda pip install git+https://github.com/clab/dynet#egg=dynet
-  - get wikiHowToImprove corpus:
+  - download data and pretrained models from:
 
-    - wget https://bitbucket.org/irshadbhat/wikihowtoimprove-corpus/raw/e76ebb974beb5ec859ebb9f5c78037b80c45e42c/wikiHow_revisions_corpus.txt.bz2
-    - bunzip2 wikiHow_revisions_corpus.txt.bz2
+    - https://bitbucket.org/irshadbhat/wikihowtoimprove_emnlp/src
 
   - get fastText embeddings:
 
