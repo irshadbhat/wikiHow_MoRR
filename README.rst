@@ -39,7 +39,7 @@ NOTE: For training and testing (with pretrained models) on WikiAtomicEdits, get 
 
 
 Predicting Revision Requirements in wikiHow
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------
 
 Train models from scratch
 ^^^^^^^^^^^^^^^^^^^^^^^^^
